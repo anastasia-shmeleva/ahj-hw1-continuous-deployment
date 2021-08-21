@@ -2,6 +2,10 @@ image: Ubuntu1804  # образ для сборки
 
 stack: node 10  # окружение
 
+environment:
+  access_token:
+    secure: SFHEIrkSCivcgtpMGVKvwmF3D5RXgQ0ZRFxa
+
 branches:
   only:
     - master  # ветка git
