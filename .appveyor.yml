@@ -4,7 +4,7 @@ stack: node 10  # окружение
 
 environment:
   access_token:
-    secure: SFHEIrkSCivcgtpMGVKvwmF3D5RXgQ0ZRFxa
+    secure: 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
 
 branches:
   only:
